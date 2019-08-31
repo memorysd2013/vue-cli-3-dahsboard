@@ -1,0 +1,42 @@
+[
+    {
+        "username":"qwer",
+        "password":"1234",
+        "firstName":"Evan",
+        "lastName":"Ko",
+        "address":"",
+        "city":"Taichung",
+        "country":"Taiwan",
+        "img":"https://static.vecteezy.com/system/resources/previews/000/142/432/large_2x/smiling-young-man-with-beard-s-headshot-vector.jpg"
+    },
+    {
+        "username":"test@email.com",
+        "password":"00000000",
+        "firstName":"Evan",
+        "lastName":"Ko",
+        "address":"",
+        "city":"Taichung",
+        "country":"Taiwan",
+        "img":"https://static.vecteezy.com/system/resources/previews/000/142/432/large_2x/smiling-young-man-with-beard-s-headshot-vector.jpg"
+    },
+    {
+        "username":"test1@email.com",
+        "password":"11111111",
+        "firstName":"Eva",
+        "lastName":"Fung",
+        "address":"",
+        "city":"Beijing",
+        "country":"China",
+        "img":"https://static.vecteezy.com/system/resources/previews/000/141/702/large_2x/headshot-of-smiling-beautiful-employee-vector.jpg"
+    },
+    {
+        "username":"test2@email.com",
+        "password":"22222222",
+        "firstName":"Eben",
+        "lastName":"Foo",
+        "address":"",
+        "city":"San Francisco",
+        "country":"America",
+        "img":"https://static.vecteezy.com/system/resources/previews/000/142/015/large_2x/headshot-of-young-businessman-vector.jpg"
+    }
+]
