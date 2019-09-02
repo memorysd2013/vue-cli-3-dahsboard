@@ -5,6 +5,6 @@ module.exports = {
       'resize-detector'
     ],
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/production-sub-path/'
+    ? '/vue-cli-3-dahsboard/'
     : '/'
   }
